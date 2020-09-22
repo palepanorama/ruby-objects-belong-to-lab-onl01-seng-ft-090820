@@ -6,4 +6,4 @@ class Artist
   end 
 end 
 
-owen = artist.new("Owen")
+owen = Artist.new("Owen")
